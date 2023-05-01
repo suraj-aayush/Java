@@ -1,0 +1,4 @@
+to compile all of the files //
+1. KEEP ALL THE JAVA FILES IN THE SAME FOLDER AND GO TO TERMINAL
+2. write ->   javac -d . *.java
+3. a folder would be created
